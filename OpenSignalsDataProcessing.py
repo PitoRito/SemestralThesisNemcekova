@@ -11,7 +11,7 @@ import DataEditing
 
 #Read data
 
-data = pd.read_csv("BioSignals\PatrikOpenSignals.txt",delimiter=',', header = None)
+data = pd.read_csv("BioSignalsData\PatrikOpenSignals.txt",delimiter=',', header = None)
 
 # Remove first 3 columns
 
